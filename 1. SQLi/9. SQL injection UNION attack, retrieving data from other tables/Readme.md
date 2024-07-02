@@ -1,7 +1,7 @@
 # Write-up: SQL injection UNION attack, retrieving data from other tables
 Lab-Link: <https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-data-from-other-tables>  
 Difficulty: PRACTITIONER  
-Python script: 
+ 
 
 ## Lab description
 

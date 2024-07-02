@@ -1,7 +1,7 @@
 # Write-up: SQL injection UNION attack, finding a column containing text
 Lab-Link: <https://portswigger.net/web-security/sql-injection/union-attacks/lab-find-column-containing-text>  
 Difficulty: PRACTITIONER  
-Python script: 
+ 
 
 ## Lab description
 

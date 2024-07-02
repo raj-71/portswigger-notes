@@ -1,7 +1,7 @@
 # Write-up: SQL injection attack, listing the database contents on Oracle
 Lab-Link: <https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-oracle>  
 Difficulty: PRACTITIONER  
-Python script: 
+ 
 
 ## Lab description
 

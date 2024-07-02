@@ -1,7 +1,7 @@
 # Write-up: SQL injection attack, listing the database contents on non-Oracle database
 Lab-Link: <https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle>  
 Difficulty: PRACTITIONER  
-Python script: 
+ 
 
 ## Lab description
 

@@ -1,7 +1,7 @@
 # Write-up: SQL injection attack, querying the database type and version in MySQL and Microsoft
 Lab-Link: <https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft>  
 Difficulty: PRACTITIONER  
-Python script: 
+ 
 
 ## Lab description
 

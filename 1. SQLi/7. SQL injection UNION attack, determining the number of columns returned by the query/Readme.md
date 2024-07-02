@@ -1,7 +1,7 @@
 # Write-up: SQL injection UNION attack, determining the number of columns returned by the query
 Lab-Link: <https://portswigger.net/web-security/sql-injection/union-attacks/lab-determine-number-of-columns>  
 Difficulty: PRACTITIONER  
-Python script: 
+ 
 
 ## Lab description
 

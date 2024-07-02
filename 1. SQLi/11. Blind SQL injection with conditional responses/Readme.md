@@ -1,7 +1,7 @@
 # Write-up: Blind SQL injection with conditional responses
 Lab-Link: <https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses>  
 Difficulty: PRACTITIONER  
-Python script: 
+ 
 
 ## Lab description
 

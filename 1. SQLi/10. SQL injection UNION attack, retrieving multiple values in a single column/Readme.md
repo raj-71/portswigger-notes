@@ -1,7 +1,7 @@
 # Write-up: SQL injection UNION attack, retrieving multiple values in a single column
 Lab-Link: <https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column>  
 Difficulty: PRACTITIONER  
-Python script: 
+ 
 
 ## Lab description
 
