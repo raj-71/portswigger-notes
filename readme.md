@@ -5,7 +5,7 @@
 | ID | Topic | Apprentice | Practitioner | Expert | 
 | --- | --- | :---: | :---: | :---: |
 |    | **Server-side topics** ||||
-| 01 | SQL injection | :heavy_check_mark: 0/2 | :heavy_check_mark: 0/16 | - |
+| 01 | SQL injection | :heavy_check_mark: 2/2 | :heavy_check_mark: 16/16 | - |
 | 02 | Authentication | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/2 | 
 | 03 | Path traversal | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/5 | - |
 | 04 | Command inection | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/4 | - |
