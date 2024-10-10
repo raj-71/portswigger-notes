@@ -5,7 +5,7 @@
 | ID | Topic | Apprentice | Practitioner | Expert | 
 | --- | --- | :---: | :---: | :---: |
 |    | **Server-side topics** ||||
-| 01 | SQL injection | :heavy_check_mark: 0/2 | :heavy_check_mark: 0/16 | - |
+| 01 | SQL injection | :heavy_check_mark: 2/2 | :heavy_check_mark: 16/16 | - |
 | 02 | Authentication | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/2 | 
 | 03 | Path traversal | :heavy_check_mark: 1/1 | :heavy_check_mark: 5/5 | - |
 | 04 | Command inection | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/4 | - |
@@ -19,7 +19,6 @@
 | 12 | NoSQL Injection | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/2 | - |
 | 13 | API Testing | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/1 |
 | 14 | Web cache deception | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/1 |
-
 |    | **Client-side topics** ||||
 | 15 | Cross-site scripting (XSS) | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/15 | :heavy_multiplication_x: 0/6 |
 | 16 | Cross-site request forgery (CSRF) | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/11 | - |
