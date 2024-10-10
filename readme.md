@@ -7,7 +7,7 @@
 |    | **Server-side topics** ||||
 | 01 | SQL injection | :heavy_check_mark: 0/2 | :heavy_check_mark: 0/16 | - |
 | 02 | Authentication | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/2 | 
-| 03 | Path traversal | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/5 | - |
+| 03 | Path traversal | :heavy_check_mark: 1/1 | :heavy_check_mark: 5/5 | - |
 | 04 | Command inection | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/4 | - |
 | 05 | Business logic vulnerabilities | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/7 | :heavy_multiplication_x: 0/1 |
 | 06 | Information disclosure | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/1 | - |
