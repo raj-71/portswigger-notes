@@ -22,7 +22,7 @@
 |    | **Client-side topics** ||||
 | 15 | Cross-site scripting (XSS) | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/15 | :heavy_multiplication_x: 0/6 |
 | 16 | Cross-site request forgery (CSRF) | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/11 | - |
-| 17 | Cross-origin resource sharing (CORS) | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/1 | - |
+| 17 | Cross-origin resource sharing (CORS) | :heavy_check_mark: 2/2 | :heavy_check_mark: 1/1 | - |
 | 18 | Clickjacking | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/2 | - |
 | 19 | DOM-based vulnerabilities | - | :heavy_multiplication_x: 0/5 | :heavy_multiplication_x: 0/2 |
 | 20 | WebSockets | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/2 | - |
