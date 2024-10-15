@@ -16,7 +16,7 @@
 | 09 | Race conditions | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/1 |
 | 10 | Server-side request forgery (SSRF) | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/2 |
 | 11 | XXE injection | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/6 | :heavy_multiplication_x: 0/1|
-| 12 | NoSQL Injection | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/2 | - |
+| 12 | NoSQL Injection | :heavy_check_mark: 2/2 | :heavy_check_mark: 2/2 | - |
 | 13 | API Testing | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/1 |
 | 14 | Web cache deception | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/1 |
 |    | **Client-side topics** ||||
