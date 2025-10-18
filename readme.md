@@ -6,12 +6,12 @@
 | --- | --- | :---: | :---: | :---: |
 |    | **Server-side topics** ||||
 | 01 | SQL injection | :heavy_check_mark: 2/2 | :heavy_check_mark: 16/16 | - |
-| 02 | Authentication | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/2 | 
+| 02 | Authentication | :heavy_check_mark: 3/3 | :heavy_check_mark: 9/9 | :heavy_check_mark: 2/2 | 
 | 03 | Path traversal | :heavy_check_mark: 1/1 | :heavy_check_mark: 5/5 | - |
-| 04 | Command inection | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/4 | - |
-| 05 | Business logic vulnerabilities | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/7 | :heavy_multiplication_x: 0/1 |
-| 06 | Information disclosure | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/1 | - |
-| 07 | Access control | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/4 | - |
+| 04 | OS Command injection | :heavy_check_mark: 1/1 | :heavy_check_mark: 4/4 | - |
+| 05 | Business logic vulnerabilities | :heavy_check_mark: 4/4 | :heavy_check_mark: 7/7 | :heavy_check_mark: 1/1 |
+| 06 | Information disclosure | :heavy_check_mark: 4/4 | :heavy_check_mark: 1/1 | - |
+| 07 | Access control | :heavy_check_mark: 9/9 | :heavy_check_mark: 4/4 | - |
 | 08 | File upload vulnerabilities | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/1 |
 | 09 | Race conditions | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/1 |
 | 10 | Server-side request forgery (SSRF) | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/2 |
