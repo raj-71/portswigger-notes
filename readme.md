@@ -25,7 +25,7 @@
 | 17 | Cross-origin resource sharing (CORS) | :heavy_check_mark: 2/2 | :heavy_check_mark: 1/1 | - |
 | 18 | Clickjacking | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/2 | - |
 | 19 | DOM-based vulnerabilities | - | :heavy_multiplication_x: 0/5 | :heavy_multiplication_x: 0/2 |
-| 20 | WebSockets | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/2 | - |
+| 20 | WebSockets | :heavy_check_mark: 1/1 | :heavy_check_mark: 2/2 | - |
 |    | **Advanced topics** ||||
 | 21 | Insecure deserialization | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/6 | :heavy_multiplication_x: 0/3 |
 | 22 | Web LLM attacks | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/1 |
@@ -35,6 +35,6 @@
 | 26 | HTTP Host header attacks | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/1 |
 | 27 | HTTP request smuggling | - | :heavy_multiplication_x: 0/15 | :heavy_multiplication_x: 0/7 |
 | 28 | OAuth authentication | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/1 |
-| 29 | JWT attacks | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/4 | :heavy_multiplication_x: 0/2 |
+| 29 | JWT attacks | :heavy_check_mark: 2/2 | :heavy_check_mark: 4/4 | :heavy_multiplication_x: 0/2 |
 | 30 | Prototype pollution | - | :heavy_multiplication_x: 0/9 | :heavy_multiplication_x: 0/1 |
 | 31 | Essential skills | - | :heavy_multiplication_x: 0/2 | - |
