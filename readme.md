@@ -15,7 +15,7 @@
 | 08 | File upload vulnerabilities | :heavy_check_mark: 2/2 | :heavy_check_mark: 4/4 | :heavy_check_mark: 1/1 |
 | 09 | Race conditions | :heavy_check_mark: 1/1 | :heavy_check_mark: 4/4 | :heavy_check_mark: 1/1 |
 | 10 | Server-side request forgery (SSRF) | :heavy_check_mark: 2/2 | :heavy_check_mark: 3/3 | :heavy_check_mark: 2/2 |
-| 11 | XXE injection | :heavy_multiplication_x: 0/2 | :heavy_multiplication_x: 0/6 | :heavy_multiplication_x: 0/1|
+| 11 | XXE injection | :heavy_check_mark: 2/2 | :heavy_check_mark: 6/6 | :heavy_check_mark: 1/1|
 | 12 | NoSQL Injection | :heavy_check_mark: 2/2 | :heavy_check_mark: 2/2 | - |
 | 13 | API Testing | :heavy_check_mark: 1/1 | :heavy_check_mark: 3/3 | :heavy_check_mark: 1/1 |
 | 14 | Web cache deception | :heavy_multiplication_x: 0/1 | :heavy_multiplication_x: 0/3 | :heavy_multiplication_x: 0/1 |
